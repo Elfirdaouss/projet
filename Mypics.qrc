@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>MyImgs/Myicon.jpg</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>MyImgs/gameBackground.jpg</file>
+    </qresource>
+    <qresource prefix="/cards">
+        <file>MyImgs/back.gif</file>
+        <file>MyImgs/blank.gif</file>
+        <file>MyImgs/cart_01.gif</file>
+        <file>MyImgs/cart_02.gif</file>
+        <file>MyImgs/cart_03.gif</file>
+        <file>MyImgs/cart_04.gif</file>
+        <file>MyImgs/cart_05.gif</file>
+        <file>MyImgs/cart_06.gif</file>
+        <file>MyImgs/cart_07.gif</file>
+        <file>MyImgs/cart_08.gif</file>
+        <file>MyImgs/cart_09.gif</file>
+        <file>MyImgs/cart_10.gif</file>
+        <file>MyImgs/cart_11.gif</file>
+        <file>MyImgs/cart_12.gif</file>
+        <file>MyImgs/cart_13.gif</file>
+        <file>MyImgs/cart_14.gif</file>
+        <file>MyImgs/cart_15.gif</file>
+        <file>MyImgs/cart_16.gif</file>
+        <file>MyImgs/cart_17.gif</file>
+        <file>MyImgs/cart_18.gif</file>
+        <file>MyImgs/cart_19.gif</file>
+        <file>MyImgs/cart_20.gif</file>
+        <file>MyImgs/cart_21.gif</file>
+        <file>MyImgs/cart_22.gif</file>
+        <file>MyImgs/cart_23.gif</file>
+        <file>MyImgs/cart_24.gif</file>
+        <file>MyImgs/cart_25.gif</file>
+        <file>MyImgs/cart_26.gif</file>
+        <file>MyImgs/cart_27.gif</file>
+        <file>MyImgs/cart_28.gif</file>
+        <file>MyImgs/cart_29.gif</file>
+        <file>MyImgs/cart_30.gif</file>
+        <file>MyImgs/cart_31.gif</file>
+        <file>MyImgs/cart_32.gif</file>
+        <file>MyImgs/cart_33.gif</file>
+        <file>MyImgs/cart_34.gif</file>
+        <file>MyImgs/cart_35.gif</file>
+        <file>MyImgs/cart_36.gif</file>
+        <file>MyImgs/cart_37.gif</file>
+        <file>MyImgs/cart_38.gif</file>
+        <file>MyImgs/cart_39.gif</file>
+        <file>MyImgs/cart_40.gif</file>
+    </qresource>
+</RCC>
